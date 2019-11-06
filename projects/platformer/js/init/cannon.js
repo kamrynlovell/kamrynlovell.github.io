@@ -21,6 +21,9 @@
         
         // example: 
         cannon.create.onTop(450);
+        cannon.create.onLeft (225);
+        cannon.create.onBottom(700);
+        cannon.create.onTop(200);
         
         
         
